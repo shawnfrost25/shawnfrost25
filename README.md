@@ -71,10 +71,10 @@ and practical distributed-systems design shaped by real failures rather than dia
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/kimishinu-1.mp4" width="100%" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/8f6c05bd-cb16-4731-b90f-80492a2ab62e" width="100%" autoplay loop muted playsinline></video>
     </td>
     <td width="50%" align="center">
-      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/kimishinu-2.mp4" width="100%" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/bfc9b6a9-cf1e-4d02-b78d-5dc71a371172" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
@@ -84,10 +84,10 @@ and practical distributed-systems design shaped by real failures rather than dia
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/cpk-1.mp4" width="100%" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/cd01d94d-43cd-433b-a227-848cd76604f7" width="100%" autoplay loop muted playsinline></video>
     </td>
     <td width="50%" align="center">
-      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/cpk-2.mp4" width="100%" autoplay loop muted playsinline></video>
+      <video src="https://github.com/user-attachments/assets/8984c52e-2b6c-48df-91d7-ae4d4dc77f91" width="100%" autoplay loop muted playsinline></video>
     </td>
   </tr>
 </table>
