@@ -33,19 +33,43 @@ I'm still learning constantly, but I'm comfortable going beyond beginner CRUD ap
 I care about the trade-offs behind production-oriented design, useful tests, clear
 observability, and systems that remain understandable as they grow.
 
+## Comfort zone 1
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="./assets/kimishinu-1.gif" width="100%" alt="Comfort zone 1, left" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./assets/kimishinu-2.gif" width="100%" alt="Comfort zone 1, right" />
+    </td>
+  </tr>
+</table>
+
 ## What I Know
 
 - **Go backend development:** HTTP APIs, `chi`, middleware, authentication, OAuth2,
   background workers, request lifecycles, concurrency, and error handling
 - **Data systems:** PostgreSQL, `pgx/pgxpool`, Squirrel, `sqlc`, Atlas migrations,
   relational modeling, constraints, indexes, transactions, and Redis
-- **Service architecture:** gRPC, Protocol Buffers, Go/Rust service boundaries, and
-  asynchronous jobs with River
+- **Service architecture:** gRPC, Protocol Buffers, Go/Rust service boundaries,
+  asynchronous jobs with River, retries, idempotency, and graceful shutdown
 - **Testing and reliability:** unit and integration tests, Testcontainers, race detection,
-  failure-oriented cases, and CI-based validation
-- **Infrastructure:** Docker Compose, GitHub Actions, Terraform/OpenTofu, and Trivy
+  HTTP handler and middleware testing, failure-oriented cases, and CI-based validation
+- **Security-minded backend work:** sessions, token handling, OAuth2 flows, webhook
+  verification, input validation, and defensive error handling
+- **Infrastructure:** Docker Compose, GitHub Actions, Terraform/OpenTofu, Jenkins and
+  GitLab CI/CD workflows, and Trivy image/filesystem scanning
 - **Observability:** structured logging with zerolog, Grafana Alloy, Loki, Grafana,
-  and continued exploration of Prometheus and OpenTelemetry
+  contextual errors, cardinality awareness, and continued exploration of Prometheus
+  and OpenTelemetry
+- **Engineering habits:** schema evolution, clean service boundaries, readable APIs,
+  reproducible environments, and debugging systems under concurrency, failure, and load
+
+I don't measure engineering by the number of tools I can list. I care about understanding
+why a system behaves the way it does, choosing the simplest design that holds up under
+pressure, and writing tests that catch meaningful regressions instead of inflating a
+coverage percentage.
 
 ## Current Project
 
@@ -64,22 +88,7 @@ and practical distributed-systems design shaped by real failures rather than dia
 
 ---
 
-## Comfort zones
-
-### Comfort zone 1
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="./assets/kimishinu-1.gif" width="100%" alt="Comfort zone 1, left" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./assets/kimishinu-2.gif" width="100%" alt="Comfort zone 1, right" />
-    </td>
-  </tr>
-</table>
-
-### Comfort zone 2
+## Comfort zone 2
 
 <table width="100%">
   <tr>
