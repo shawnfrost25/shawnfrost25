@@ -33,6 +33,9 @@ I'm still learning constantly, but I'm comfortable going beyond beginner CRUD ap
 I care about the trade-offs behind production-oriented design, useful tests, clear
 observability, and systems that remain understandable as they grow.
 
+I enjoy turning complex system behavior into clear mental models, and I like sharing what I
+learn through projects that are practical, measurable, and built to evolve.
+
 ## Comfort zone 1
 
 <table width="100%">
@@ -81,13 +84,6 @@ The project brings together a Go API, GitHub OAuth and webhook ingestion, Redis 
 River jobs, Atlas and sqlc, a Rust PDF-processing gRPC sidecar, Docker Compose, integration
 tests, and separate Go/Rust CI pipelines.
 
-## What I'm Learning Next
-
-Better test design, deeper Go runtime and concurrency knowledge, more intentional telemetry,
-and practical distributed-systems design shaped by real failures rather than diagrams alone.
-
----
-
 ## Comfort zone 2
 
 <table width="100%">
@@ -104,6 +100,13 @@ and practical distributed-systems design shaped by real failures rather than dia
 > Comfort-zone GIFs and the finale GIF are from [kattayan_46 on GIPHY](https://giphy.com/channel/kattayan_46/).
 >
 > Used here with appreciation.
+
+## What I'm Learning Next
+
+Better test design, deeper Go runtime and concurrency knowledge, more intentional telemetry,
+and practical distributed-systems design shaped by real failures rather than diagrams alone.
+
+---
 
 <div align="center">
 
