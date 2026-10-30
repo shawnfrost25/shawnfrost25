@@ -64,16 +64,31 @@ and practical distributed-systems design shaped by real failures rather than dia
 
 ---
 
-## Comfort corner
+## Comfort zones
 
-<table>
+### Comfort zone 1
+
+<table width="100%">
   <tr>
-    <td align="left"><img src="./assets/kimishinu-1.gif" width="300" alt="Comfort corner GIF 1" /></td>
-    <td align="right"><img src="./assets/kimishinu-2.gif" width="300" alt="Comfort corner GIF 2" /></td>
+    <td width="50%" align="center">
+      https://github.com/user-attachments/assets/8f6c05bd-cb16-4731-b90f-80492a2ab62e
+    </td>
+    <td width="50%" align="center">
+      https://github.com/user-attachments/assets/bfc9b6a9-cf1e-4d02-b78d-5dc71a371172
+    </td>
   </tr>
+</table>
+
+### Comfort zone 2
+
+<table width="100%">
   <tr>
-    <td align="left"><img src="./assets/cpk-1.gif" width="300" alt="Comfort corner GIF 3" /></td>
-    <td align="right"><img src="./assets/cpk-2.gif" width="300" alt="Comfort corner GIF 4" /></td>
+    <td width="50%" align="center">
+      https://github.com/user-attachments/assets/cd01d94d-43cd-433b-a227-848cd76604f7
+    </td>
+    <td width="50%" align="center">
+      https://github.com/user-attachments/assets/8984c52e-2b6c-48df-91d7-ae4d4dc77f91
+    </td>
   </tr>
 </table>
 
