@@ -59,6 +59,8 @@ learn through projects that are practical, measurable, and built to evolve.
   asynchronous jobs with River, retries, idempotency, and graceful shutdown
 - **Testing and reliability:** unit and integration tests, Testcontainers, race detection,
   HTTP handler and middleware testing, failure-oriented cases, and CI-based validation
+- **State and async tooling:** Redis-backed sessions with `go-redis`, scheduled/async job
+  execution with River, and resilient retry/error workflows
 - **Security-minded backend work:** sessions, token handling, OAuth2 flows, webhook
   verification, input validation, and defensive error handling
 - **Infrastructure:** Docker Compose, GitHub Actions, Terraform/OpenTofu, Jenkins and
@@ -97,9 +99,9 @@ tests, and separate Go/Rust CI pipelines.
   </tr>
 </table>
 
-> Comfort-zone GIFs and the finale GIF are from [kattayan_46 on GIPHY](https://giphy.com/channel/kattayan_46/).
+> Comfort-zone GIFs were made by me (inspired by <a href="https://giphy.com/channel/kattayan_46/">kattayan_46</a>).
 >
-> Used here with appreciation.
+> The finale GIF is from <a href="https://giphy.com/kilianimes">kilianimes on GIPHY</a>.
 
 ## What I'm Learning Next
 
