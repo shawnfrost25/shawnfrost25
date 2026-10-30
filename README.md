@@ -71,10 +71,10 @@ and practical distributed-systems design shaped by real failures rather than dia
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      https://github.com/user-attachments/assets/8f6c05bd-cb16-4731-b90f-80492a2ab62e
+      <video src="https://github.com/user-attachments/assets/8f6c05bd-cb16-4731-b90f-80492a2ab62e" width="100%" controls loop muted></video>
     </td>
     <td width="50%" align="center">
-      https://github.com/user-attachments/assets/bfc9b6a9-cf1e-4d02-b78d-5dc71a371172
+      <video src="https://github.com/user-attachments/assets/bfc9b6a9-cf1e-4d02-b78d-5dc71a371172" width="100%" controls loop muted></video>
     </td>
   </tr>
 </table>
@@ -84,15 +84,15 @@ and practical distributed-systems design shaped by real failures rather than dia
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      https://github.com/user-attachments/assets/cd01d94d-43cd-433b-a227-848cd76604f7
+      <video src="https://github.com/user-attachments/assets/cd01d94d-43cd-433b-a227-848cd76604f7" width="100%" controls loop muted></video>
     </td>
     <td width="50%" align="center">
-      https://github.com/user-attachments/assets/8984c52e-2b6c-48df-91d7-ae4d4dc77f91
+      <video src="https://github.com/user-attachments/assets/8984c52e-2b6c-48df-91d7-ae4d4dc77f91" width="100%" controls loop muted></video>
     </td>
   </tr>
 </table>
 
-> GIFs from [kattayan_46 on GIPHY](https://giphy.com/channel/kattayan_46/).
+> Comfort-zone videos and the finale GIF are from [kattayan_46 on GIPHY](https://giphy.com/channel/kattayan_46/).
 >
 > Used here with appreciation.
 
