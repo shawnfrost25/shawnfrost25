@@ -64,16 +64,31 @@ and practical distributed-systems design shaped by real failures rather than dia
 
 ---
 
-## Comfort corner
+## Comfort zones
 
-<table>
+### Comfort zone 1
+
+<table width="100%">
   <tr>
-    <td align="left"><img src="./assets/kimishinu-1.gif" width="300" alt="Comfort corner GIF 1" /></td>
-    <td align="right"><img src="./assets/kimishinu-2.gif" width="300" alt="Comfort corner GIF 2" /></td>
+    <td width="50%" align="center">
+      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/kimishinu-1.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+    <td width="50%" align="center">
+      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/kimishinu-2.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
   </tr>
+</table>
+
+### Comfort zone 2
+
+<table width="100%">
   <tr>
-    <td align="left"><img src="./assets/cpk-1.gif" width="300" alt="Comfort corner GIF 3" /></td>
-    <td align="right"><img src="./assets/cpk-2.gif" width="300" alt="Comfort corner GIF 4" /></td>
+    <td width="50%" align="center">
+      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/cpk-1.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
+    <td width="50%" align="center">
+      <video src="https://raw.githubusercontent.com/shawnfrost25/shawnfrost25/main/assets/cpk-2.mp4" width="100%" autoplay loop muted playsinline></video>
+    </td>
   </tr>
 </table>
 
