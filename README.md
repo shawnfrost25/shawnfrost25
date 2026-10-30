@@ -92,7 +92,7 @@ and practical distributed-systems design shaped by real failures rather than dia
   </tr>
 </table>
 
-> Comfort-zone GIFs and the finale GIF are from [kattayan_46 on GIPHY](https://giphy.com/channel/kattayan_46/).
+> Comfort-zone GIFs and the finale GIF are from [kilianimes on GIPHY](https://giphy.com/kilianimes).
 >
 > Used here with appreciation.
 
