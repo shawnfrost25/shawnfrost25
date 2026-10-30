@@ -36,7 +36,7 @@ observability, and systems that remain understandable as they grow.
 I enjoy turning complex system behavior into clear mental models, and I like sharing what I
 learn through projects that are practical, measurable, and built to evolve.
 
-## Comfort zone 1
+## Comfort zone 1 (I Want To Love You Till Your Dying Day / KimiShinu)
 
 <table width="100%">
   <tr>
@@ -86,7 +86,7 @@ The project brings together a Go API, GitHub OAuth and webhook ingestion, Redis 
 River jobs, Atlas and sqlc, a Rust PDF-processing gRPC sidecar, Docker Compose, integration
 tests, and separate Go/Rust CI pipelines.
 
-## Comfort zone 2
+## Comfort zone 2 (Cosmic Princess Kaguya / CPK)
 
 <table width="100%">
   <tr>
@@ -112,7 +112,7 @@ and practical distributed-systems design shaped by real failures rather than dia
 
 <div align="center">
 
-## She looks so me
+## She's so me (Then proceed to watch yuris)
 
 <img src="./assets/so-me.gif" width="360" alt="She looks so me" />
 
