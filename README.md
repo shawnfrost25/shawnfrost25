@@ -112,7 +112,7 @@ and practical distributed-systems design shaped by real failures rather than dia
 
 <div align="center">
 
-## She's so me (Then proceed to watch yuris)
+## She's so me
 
 <img src="./assets/so-me.gif" width="360" alt="She looks so me" />
 
